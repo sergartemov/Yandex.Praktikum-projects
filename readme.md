@@ -49,7 +49,7 @@
 </tr>
 
 <tr>
-    <td><a href="https://nbviewer.jupyter.org/github/sergartemov/Yandex.Praktikum-projects/blob/main/04_Tariff.ipynb" target="_blank"><b>EDA анализ</b></a></td>
+    <td><a href="https://github.com/sergartemov/Yandex.Praktikum-projects/blob/main/04_Tariff.ipynb" target="_blank"><b>EDA анализ</b></a></td>
     <td><b>Клиент</b> - телеком компания.
     <br><b>Данные</b> - 3 датасета с информацией об объёме потребляемых абонентами услуг (звонки, SMS, интернет-траффик).
     <br><b>Задача</b> оценить наиболее предпочтительный тариф сотовой связи.
