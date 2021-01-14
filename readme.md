@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-    <td><a href="https://github.com/sergartemov/Yandex-praktikum-projects/blob/main/01_Bank.ipynb" target="_blank"><b>Анализ клиентов банка, склонных к оттоку</b></a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/sergartemov/Yandex.Praktikum-projects/blob/main/01_Bank.ipynb" target="_blank"><b>Анализ клиентов банка, склонных к оттоку</b></a></td>
     <td><b>Клиент</b> - региональный банк, присутствующий в 3 городах.<br>
     <b>Задачи:</b>
         <br>1. определить признаки, влияющие на отток;
@@ -23,7 +23,7 @@
 </tr>
 
 <tr>
-    <td><a href="https://github.com/sergartemov/Yandex-praktikum-projects/blob/main/02_AB_chat.ipynb" target="_blank"><b>A/B тест «Чат с менеджером» на сайте онлайн-ритейлера</b></a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/sergartemov/Yandex.Praktikum-projects/blob/main/02_AB_chat.ipynb" target="_blank"><b>A/B тест «Чат с менеджером» на сайте онлайн-ритейлера</b></a></td>
     <td><b>Клиент</b> - онлайн-ритейлер по продаже сложных технических товаров.
     <br><b>Задача</b> оценить влияние чата на конверсию, найти инсайты.  
     <br><b>Датасет</b> содержит информацию о регистрируемых событиях на сайте, их дате и тестовой группе, к которой отнесен UID.
@@ -31,7 +31,7 @@
 </tr>
 
 <tr>
-    <td><a href="https://github.com/sergartemov/Yandex-praktikum-projects/blob/main/03_AB_conversion.ipynb" target="_blank"><b>A/B тестирование | Приоритизация гипотез</b></a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/sergartemov/Yandex.Praktikum-projects/blob/main/03_AB_conversion.ipynb" target="_blank"><b>A/B тестирование | Приоритизация гипотез</b></a></td>
     <td><b>Клиент</b> - онлайн-ритейлер. 
     <br><b>Задача</b> приоритизировать список гипотез для увеличения выручки и проанализировать результаты проведенного A/B-теста отделом маркетинга.
     <br><b>Данные</b> содержат таблицы о заказах и визитах пользователей.
@@ -42,14 +42,14 @@
 </tr>
     
 <tr>
-    <td><a href="https://github.com/sergartemov/Yandex-praktikum-projects/blob/main/05_SQL.ipynb" target="_blank"><b>SQL задания</b></a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/sergartemov/Yandex.Praktikum-projects/blob/main/05_SQL.ipynb" target="_blank"><b>SQL задания</b></a></td>
     <td><b>Клиент</b> - маркетплейс, который проводит рекламные акции длительностью 1 день. <b>Задача</b> оценить эффективность таких кампаний.
     </td>
     <td>SQL, SQLAlchemy, psycopg2</td>
 </tr>
 
 <tr>
-    <td><a href="https://github.com/sergartemov/Yandex-praktikum-projects/blob/main/04_Tariff.ipynb" target="_blank"><b>EDA анализ</b></a></td>
+    <td><a href="https://nbviewer.jupyter.org/github/sergartemov/Yandex.Praktikum-projects/blob/main/04_Tariff.ipynb" target="_blank"><b>EDA анализ</b></a></td>
     <td><b>Клиент</b> - телеком компания.
     <br><b>Данные</b> - 3 датасета с информацией об объёме потребляемых абонентами услуг (звонки, SMS, интернет-траффик).
     <br><b>Задача</b> оценить наиболее предпочтительный тариф сотовой связи.
